@@ -1,5 +1,5 @@
 # CSE499-Project
-# Riddle Me: Evaluating Problem-Solving Abilities of Advanced LLMs
+# Riddle Me: Dr LLM, Can you solve this puzzle?
 
 The **Riddle Me** project aims to evaluate and compare the problem-solving abilities of five advanced large language models (LLMs)—**Gemini**, **Cohere**, **Llama 2.7**, **Llama 3**, and **Llama 3.2 Instruct**—by testing them on various puzzles. The objective is to assess their performance both **with** and **without prompts**, comparing their capacity to solve diverese sets of puzzle, with a focus on:
 
